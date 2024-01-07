@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: red;
+}
+
+ul {
+    color: blueviolet;
+    list-style: none;
+    padding: 0;
+}
+
+ol {
+    color: green;
+    list-style: none;
+    padding: 0;
+}
+
+#PinaColada-Pic {
+    width: 300px;
+    height: auto;
+}
+
+#Ceviche-Pic {
+    width: 400px;
+    height: auto;
+}
